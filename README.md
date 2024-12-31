@@ -87,3 +87,4 @@ Contact
 For any inquiries or support, please contact Chaturvediakarsh51@gamail.com
 
 The Look of the Website (https://github.com/user-attachments/assets/0dc84606-4218-48d1-9c02-83f56783456d)
+![Screenshot 2024-12-31 231356](https://github.com/user-attachments/assets/fe82137f-699e-40b1-9d03-0c01cf6e05a3)
