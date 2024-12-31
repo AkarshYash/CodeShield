@@ -1,0 +1,10 @@
+flask
+project_directory/
+├── analyzers/
+│   ├── __init__.py
+│   ├── css_analyzer.py
+│   ├── cpp_analyzer.py
+│   ├── html_analyzer.py
+│   ├── java_analyzer.py
+│   └── python_analyzer.py
+├── main.py
